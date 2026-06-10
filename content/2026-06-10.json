@@ -12,17 +12,77 @@
       "minutes": 4,
       "summary_zh": "貝爾法斯特發生刀械攻擊後，多地爆發示威與縱火，警方與政界呼籲冷靜。",
       "vocab": [
-        { "word": "erupt", "ipa": "/ɪˈrʌpt/", "pos": "動詞", "zh": "（暴力、事件）突然爆發", "example": "Violence erupted across the city overnight." },
-        { "word": "charge", "ipa": "/tʃɑːrdʒ/", "pos": "動詞", "zh": "（正式）起訴、控告", "example": "A man was charged with attempted murder." },
-        { "word": "disorder", "ipa": "/dɪsˈɔːrdər/", "pos": "名詞", "zh": "動亂、騷亂", "example": "Several cars were set on fire during the disorder." },
-        { "word": "demonstration", "ipa": "/ˌdɛmənˈstreɪʃən/", "pos": "名詞", "zh": "示威、抗議", "example": "The trouble began at an anti-immigration demonstration." },
-        { "word": "refugee", "ipa": "/ˌrɛfjuˈdʒiː/", "pos": "名詞", "zh": "難民", "example": "He was given refugee status in 2023." },
-        { "word": "calm", "ipa": "/kɑːm/", "pos": "名詞", "zh": "冷靜、平靜", "example": "Politicians are calling for calm on the streets." }
+        {
+          "word": "erupt",
+          "ipa": "/ɪˈrʌpt/",
+          "pos": "動詞",
+          "zh": "（暴力、事件）突然爆發",
+          "example": "Violence erupted across the city overnight."
+        },
+        {
+          "word": "charge",
+          "ipa": "/tʃɑːrdʒ/",
+          "pos": "動詞",
+          "zh": "（正式）起訴、控告",
+          "example": "A man was charged with attempted murder."
+        },
+        {
+          "word": "disorder",
+          "ipa": "/dɪsˈɔːrdər/",
+          "pos": "名詞",
+          "zh": "動亂、騷亂",
+          "example": "Several cars were set on fire during the disorder."
+        },
+        {
+          "word": "demonstration",
+          "ipa": "/ˌdɛmənˈstreɪʃən/",
+          "pos": "名詞",
+          "zh": "示威、抗議",
+          "example": "The trouble began at an anti-immigration demonstration."
+        },
+        {
+          "word": "refugee",
+          "ipa": "/ˌrɛfjuˈdʒiː/",
+          "pos": "名詞",
+          "zh": "難民",
+          "example": "He was given refugee status in 2023."
+        },
+        {
+          "word": "calm",
+          "ipa": "/kɑːm/",
+          "pos": "名詞",
+          "zh": "冷靜、平靜",
+          "example": "Politicians are calling for calm on the streets."
+        }
       ],
       "quiz": [
-        { "q": "To 'erupt' means…", "options": ["to suddenly break out", "to slowly fade", "to plan ahead"], "answer": 0 },
-        { "q": "If someone is 'charged' with a crime, they are…", "options": ["formally accused", "found innocent", "set free"], "answer": 0 },
-        { "q": "'Disorder' here means…", "options": ["calm", "violent chaos", "a parade"], "answer": 1 }
+        {
+          "q": "To 'erupt' means…",
+          "options": [
+            "to suddenly break out",
+            "to slowly fade",
+            "to plan ahead"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "If someone is 'charged' with a crime, they are…",
+          "options": [
+            "formally accused",
+            "found innocent",
+            "set free"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "'Disorder' here means…",
+          "options": [
+            "calm",
+            "violent chaos",
+            "a parade"
+          ],
+          "answer": 1
+        }
       ]
     },
     {
@@ -36,17 +96,77 @@
       "minutes": 8,
       "summary_zh": "馬刺作客麥迪遜花園廣場爆冷擊敗尼克，Wembanyama 強勢回神，終結尼克連勝。",
       "vocab": [
-        { "word": "upset", "ipa": "/ˈʌpsɛt/", "pos": "名詞", "zh": "（運動）爆冷門、意外擊敗強隊", "example": "San Antonio pulled off a big upset on the road." },
-        { "word": "bounce back", "ipa": "/baʊns bæk/", "pos": "片語", "zh": "反彈、重新振作", "example": "Wembanyama had a bounce-back game with 32 points." },
-        { "word": "rebound", "ipa": "/ˈriːbaʊnd/", "pos": "名詞", "zh": "籃板球", "example": "He grabbed eight rebounds in the win." },
-        { "word": "assist", "ipa": "/əˈsɪst/", "pos": "名詞", "zh": "助攻", "example": "He added six assists for his team." },
-        { "word": "streak", "ipa": "/striːk/", "pos": "名詞", "zh": "連勝（紀錄）", "example": "The Knicks' winning streak ended at 13." },
-        { "word": "avoid", "ipa": "/əˈvɔɪd/", "pos": "動詞", "zh": "避免", "example": "San Antonio avoided a third straight loss." }
+        {
+          "word": "upset",
+          "ipa": "/ˈʌpsɛt/",
+          "pos": "名詞",
+          "zh": "（運動）爆冷門、意外擊敗強隊",
+          "example": "San Antonio pulled off a big upset on the road."
+        },
+        {
+          "word": "bounce back",
+          "ipa": "/baʊns bæk/",
+          "pos": "片語",
+          "zh": "反彈、重新振作",
+          "example": "Wembanyama had a bounce-back game with 32 points."
+        },
+        {
+          "word": "rebound",
+          "ipa": "/ˈriːbaʊnd/",
+          "pos": "名詞",
+          "zh": "籃板球",
+          "example": "He grabbed eight rebounds in the win."
+        },
+        {
+          "word": "assist",
+          "ipa": "/əˈsɪst/",
+          "pos": "名詞",
+          "zh": "助攻",
+          "example": "He added six assists for his team."
+        },
+        {
+          "word": "streak",
+          "ipa": "/striːk/",
+          "pos": "名詞",
+          "zh": "連勝（紀錄）",
+          "example": "The Knicks' winning streak ended at 13."
+        },
+        {
+          "word": "avoid",
+          "ipa": "/əˈvɔɪd/",
+          "pos": "動詞",
+          "zh": "避免",
+          "example": "San Antonio avoided a third straight loss."
+        }
       ],
       "quiz": [
-        { "q": "In sports, an 'upset' is when…", "options": ["a weaker team beats a stronger one", "the favorite wins easily", "a game is cancelled"], "answer": 0 },
-        { "q": "To 'bounce back' means to…", "options": ["recover after a setback", "give up", "fall behind"], "answer": 0 },
-        { "q": "A 'winning streak' is…", "options": ["a single win", "a run of consecutive wins", "a loss"], "answer": 1 }
+        {
+          "q": "In sports, an 'upset' is when…",
+          "options": [
+            "a weaker team beats a stronger one",
+            "the favorite wins easily",
+            "a game is cancelled"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "To 'bounce back' means to…",
+          "options": [
+            "recover after a setback",
+            "give up",
+            "fall behind"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A 'winning streak' is…",
+          "options": [
+            "a single win",
+            "a run of consecutive wins",
+            "a loss"
+          ],
+          "answer": 1
+        }
       ]
     },
     {
@@ -60,49 +180,214 @@
       "minutes": 3,
       "summary_zh": "美伊互相攻擊，伊朗報復美軍在波斯灣的基地；目前雙方攻擊暫停，停戰談判持續進行。",
       "vocab": [
-        { "word": "retaliation", "ipa": "/rɪˌtæliˈeɪʃən/", "pos": "名詞", "zh": "報復、還擊", "example": "The retaliation came this morning." },
-        { "word": "hostilities", "ipa": "/hɒˈstɪlətiz/", "pos": "名詞", "zh": "敵對行動、交戰", "example": "He felt the need to respond to the hostilities." },
-        { "word": "truce", "ipa": "/truːs/", "pos": "名詞", "zh": "停戰、休戰", "example": "Truce talks are still ongoing." },
-        { "word": "down", "ipa": "/daʊn/", "pos": "動詞", "zh": "擊落", "example": "Iran had downed an American helicopter." },
-        { "word": "eject", "ipa": "/ɪˈdʒɛkt/", "pos": "動詞", "zh": "（飛行員）彈射逃生", "example": "The crew ejected and were safe." },
-        { "word": "red line", "ipa": "/rɛd laɪn/", "pos": "片語", "zh": "底線、不可跨越的紅線", "example": "A red line for him would be troop deaths." }
+        {
+          "word": "retaliation",
+          "ipa": "/rɪˌtæliˈeɪʃən/",
+          "pos": "名詞",
+          "zh": "報復、還擊",
+          "example": "The retaliation came this morning."
+        },
+        {
+          "word": "hostilities",
+          "ipa": "/hɒˈstɪlətiz/",
+          "pos": "名詞",
+          "zh": "敵對行動、交戰",
+          "example": "He felt the need to respond to the hostilities."
+        },
+        {
+          "word": "truce",
+          "ipa": "/truːs/",
+          "pos": "名詞",
+          "zh": "停戰、休戰",
+          "example": "Truce talks are still ongoing."
+        },
+        {
+          "word": "down",
+          "ipa": "/daʊn/",
+          "pos": "動詞",
+          "zh": "擊落",
+          "example": "Iran had downed an American helicopter."
+        },
+        {
+          "word": "eject",
+          "ipa": "/ɪˈdʒɛkt/",
+          "pos": "動詞",
+          "zh": "（飛行員）彈射逃生",
+          "example": "The crew ejected and were safe."
+        },
+        {
+          "word": "red line",
+          "ipa": "/rɛd laɪn/",
+          "pos": "片語",
+          "zh": "底線、不可跨越的紅線",
+          "example": "A red line for him would be troop deaths."
+        }
       ],
       "quiz": [
-        { "q": "'Retaliation' means…", "options": ["striking back", "surrendering", "negotiating"], "answer": 0 },
-        { "q": "A 'truce' is…", "options": ["a pause in fighting", "a type of weapon", "an attack"], "answer": 0 },
-        { "q": "To 'down' a helicopter means to…", "options": ["shoot it down", "refuel it", "land it safely"], "answer": 0 }
+        {
+          "q": "'Retaliation' means…",
+          "options": [
+            "striking back",
+            "surrendering",
+            "negotiating"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A 'truce' is…",
+          "options": [
+            "a pause in fighting",
+            "a type of weapon",
+            "an attack"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "To 'down' a helicopter means to…",
+          "options": [
+            "shoot it down",
+            "refuel it",
+            "land it safely"
+          ],
+          "answer": 0
+        }
       ]
     }
   ],
   "shadowSource": "國際情勢 · BBC",
   "shadowSegments": [
-    { "text": "There have been violent scenes across Northern Ireland tonight.", "zh": "今晚北愛爾蘭各地發生暴力場面。", "audio": "shadow-0.mp3" },
-    { "text": "A man was charged with attempted murder after a knife attack.", "zh": "一名男子在持刀攻擊後被控謀殺未遂。", "audio": "shadow-1.mp3" },
-    { "text": "Police described the attacker as a man in his thirties.", "zh": "警方形容攻擊者是一名三十多歲的男子。", "audio": "shadow-2.mp3" },
-    { "text": "Police and politicians are calling for calm on the streets.", "zh": "警方與政界呼籲街頭保持冷靜。", "audio": "shadow-3.mp3" },
-    { "text": "Several vehicles were set on fire during the demonstration.", "zh": "示威期間有多輛車被縱火。", "audio": "shadow-4.mp3" }
+    {
+      "text": "There have been violent scenes across Northern Ireland tonight.",
+      "zh": "今晚北愛爾蘭各地發生暴力場面。",
+      "audio": "shadow-0.mp3"
+    },
+    {
+      "text": "A man was charged with attempted murder after a knife attack.",
+      "zh": "一名男子在持刀攻擊後被控謀殺未遂。",
+      "audio": "shadow-1.mp3"
+    },
+    {
+      "text": "Police described the attacker as a man in his thirties.",
+      "zh": "警方形容攻擊者是一名三十多歲的男子。",
+      "audio": "shadow-2.mp3"
+    },
+    {
+      "text": "Police and politicians are calling for calm on the streets.",
+      "zh": "警方與政界呼籲街頭保持冷靜。",
+      "audio": "shadow-3.mp3"
+    },
+    {
+      "text": "Several vehicles were set on fire during the demonstration.",
+      "zh": "示威期間有多輛車被縱火。",
+      "audio": "shadow-4.mp3"
+    }
   ],
-  "shadowFull": { "audio": "shadow-full.mp3", "cues": [0.1, 3.89, 7.91, 11.7, 15.36] },
+  "shadowFull": {
+    "audio": "shadow-full.mp3",
+    "cues": [
+      0.0,
+      2.99,
+      6.22,
+      9.21,
+      12.08
+    ]
+  },
   "scenarioPack": {
     "title": "在咖啡廳點餐",
     "emoji": "☕",
     "phrases": [
-      { "en": "Can I get a latte, please?", "zh": "可以給我一杯拿鐵嗎？", "audio": "scene-0.mp3" },
-      { "en": "For here or to go?", "zh": "內用還是外帶？", "audio": "scene-1.mp3" },
-      { "en": "I'll have it to go.", "zh": "我要外帶。", "audio": "scene-2.mp3" },
-      { "en": "Could you make it less sweet?", "zh": "可以幫我做少糖嗎？", "audio": "scene-3.mp3" },
-      { "en": "Keep the change.", "zh": "不用找了。", "audio": "scene-4.mp3" }
+      {
+        "en": "Can I get a latte, please?",
+        "zh": "可以給我一杯拿鐵嗎？",
+        "audio": "scene-0.mp3"
+      },
+      {
+        "en": "For here or to go?",
+        "zh": "內用還是外帶？",
+        "audio": "scene-1.mp3"
+      },
+      {
+        "en": "I'll have it to go.",
+        "zh": "我要外帶。",
+        "audio": "scene-2.mp3"
+      },
+      {
+        "en": "Could you make it less sweet?",
+        "zh": "可以幫我做少糖嗎？",
+        "audio": "scene-3.mp3"
+      },
+      {
+        "en": "Keep the change.",
+        "zh": "不用找了。",
+        "audio": "scene-4.mp3"
+      }
     ]
   },
   "dailyWords": [
-    { "word": "erupt", "ipa": "/ɪˈrʌpt/", "pos": "動詞", "zh": "（暴力、事件）突然爆發", "example": "Violence erupted across the city overnight.", "from": "國際情勢" },
-    { "word": "upset", "ipa": "/ˈʌpsɛt/", "pos": "名詞", "zh": "（運動）爆冷門、意外擊敗強隊", "example": "San Antonio pulled off a big upset on the road.", "from": "運動" },
-    { "word": "retaliation", "ipa": "/rɪˌtæliˈeɪʃən/", "pos": "名詞", "zh": "報復、還擊", "example": "The retaliation came this morning.", "from": "財經" },
-    { "word": "charge", "ipa": "/tʃɑːrdʒ/", "pos": "動詞", "zh": "（正式）起訴、控告", "example": "A man was charged with attempted murder.", "from": "國際情勢" },
-    { "word": "bounce back", "ipa": "/baʊns bæk/", "pos": "片語", "zh": "反彈、重新振作", "example": "Wembanyama had a bounce-back game with 32 points.", "from": "運動" },
-    { "word": "truce", "ipa": "/truːs/", "pos": "名詞", "zh": "停戰、休戰", "example": "Truce talks are still ongoing.", "from": "財經" },
-    { "word": "disorder", "ipa": "/dɪsˈɔːrdər/", "pos": "名詞", "zh": "動亂、騷亂", "example": "Several cars were set on fire during the disorder.", "from": "國際情勢" },
-    { "word": "rebound", "ipa": "/ˈriːbaʊnd/", "pos": "名詞", "zh": "籃板球", "example": "He grabbed eight rebounds in the win.", "from": "運動" }
+    {
+      "word": "erupt",
+      "ipa": "/ɪˈrʌpt/",
+      "pos": "動詞",
+      "zh": "（暴力、事件）突然爆發",
+      "example": "Violence erupted across the city overnight.",
+      "from": "國際情勢"
+    },
+    {
+      "word": "upset",
+      "ipa": "/ˈʌpsɛt/",
+      "pos": "名詞",
+      "zh": "（運動）爆冷門、意外擊敗強隊",
+      "example": "San Antonio pulled off a big upset on the road.",
+      "from": "運動"
+    },
+    {
+      "word": "retaliation",
+      "ipa": "/rɪˌtæliˈeɪʃən/",
+      "pos": "名詞",
+      "zh": "報復、還擊",
+      "example": "The retaliation came this morning.",
+      "from": "財經"
+    },
+    {
+      "word": "charge",
+      "ipa": "/tʃɑːrdʒ/",
+      "pos": "動詞",
+      "zh": "（正式）起訴、控告",
+      "example": "A man was charged with attempted murder.",
+      "from": "國際情勢"
+    },
+    {
+      "word": "bounce back",
+      "ipa": "/baʊns bæk/",
+      "pos": "片語",
+      "zh": "反彈、重新振作",
+      "example": "Wembanyama had a bounce-back game with 32 points.",
+      "from": "運動"
+    },
+    {
+      "word": "truce",
+      "ipa": "/truːs/",
+      "pos": "名詞",
+      "zh": "停戰、休戰",
+      "example": "Truce talks are still ongoing.",
+      "from": "財經"
+    },
+    {
+      "word": "disorder",
+      "ipa": "/dɪsˈɔːrdər/",
+      "pos": "名詞",
+      "zh": "動亂、騷亂",
+      "example": "Several cars were set on fire during the disorder.",
+      "from": "國際情勢"
+    },
+    {
+      "word": "rebound",
+      "ipa": "/ˈriːbaʊnd/",
+      "pos": "名詞",
+      "zh": "籃板球",
+      "example": "He grabbed eight rebounds in the win.",
+      "from": "運動"
+    }
   ],
   "wordOfDay": {
     "word": "erupt",
@@ -112,5 +397,8 @@
     "example": "Violence **erupted** in Belfast after the attack.",
     "from": "國際情勢"
   },
-  "shadow": { "text": "There have been violent scenes across Northern Ireland tonight.", "zh": "今晚北愛爾蘭各地發生暴力場面。" }
+  "shadow": {
+    "text": "There have been violent scenes across Northern Ireland tonight.",
+    "zh": "今晚北愛爾蘭各地發生暴力場面。"
+  }
 }
