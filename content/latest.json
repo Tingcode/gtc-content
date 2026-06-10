@@ -6,84 +6,84 @@
       "emoji": "🌍",
       "source": "BBC News",
       "category": "WORLD",
-      "videoId": "w6kp7QVzNWg",
-      "title": "The rebels on the front line of Myanmar's war",
+      "videoId": "ouMa6dnCewI",
+      "title": "Violence erupts in Belfast after a knife attack",
       "level": "B1 中級",
-      "minutes": 4,
-      "summary_zh": "BBC 深入緬甸前線，記錄反抗軍的日常與處境。",
+      "minutes": 3,
+      "summary_zh": "貝爾法斯特發生刀械攻擊後，多地爆發示威與縱火，警方與政界呼籲冷靜。",
       "vocab": [
-        { "word": "rebel", "ipa": "/ˈrɛbəl/", "pos": "名詞", "zh": "反抗者、叛軍", "example": "The rebels controlled the border town for months." },
-        { "word": "front line", "ipa": "/ˈfrʌnt laɪn/", "pos": "名詞", "zh": "前線", "example": "Young fighters are sent to the front line." },
-        { "word": "ceasefire", "ipa": "/ˈsiːsfaɪər/", "pos": "名詞", "zh": "停火", "example": "Both sides agreed to a fragile ceasefire." },
-        { "word": "displace", "ipa": "/dɪsˈpleɪs/", "pos": "動詞", "zh": "使流離失所", "example": "The fighting displaced thousands of families." },
-        { "word": "resistance", "ipa": "/rɪˈzɪstəns/", "pos": "名詞", "zh": "抵抗、反抗運動", "example": "The resistance grew stronger every month." },
-        { "word": "civilian", "ipa": "/sɪˈvɪljən/", "pos": "名詞", "zh": "平民", "example": "Many civilians fled to the mountains." }
+        { "word": "erupt", "ipa": "/ɪˈrʌpt/", "pos": "動詞", "zh": "（暴力、事件）突然爆發", "example": "Violence erupted across the city overnight." },
+        { "word": "charge", "ipa": "/tʃɑːrdʒ/", "pos": "動詞", "zh": "（正式）起訴、控告", "example": "A man was charged with attempted murder." },
+        { "word": "disorder", "ipa": "/dɪsˈɔːrdər/", "pos": "名詞", "zh": "動亂、騷亂", "example": "Several cars were set on fire during the disorder." },
+        { "word": "demonstration", "ipa": "/ˌdɛmənˈstreɪʃən/", "pos": "名詞", "zh": "示威、抗議", "example": "The trouble began at an anti-immigration demonstration." },
+        { "word": "refugee", "ipa": "/ˌrɛfjuˈdʒiː/", "pos": "名詞", "zh": "難民", "example": "He was given refugee status in 2023." },
+        { "word": "calm", "ipa": "/kɑːm/", "pos": "名詞", "zh": "冷靜、平靜", "example": "Politicians are calling for calm on the streets." }
       ],
       "quiz": [
-        { "q": "A 'ceasefire' means…", "options": ["a stop in fighting", "a type of weapon", "a border"], "answer": 0 },
-        { "q": "If people are 'displaced', they are…", "options": ["promoted", "forced to leave home", "rescued"], "answer": 1 },
-        { "q": "'Civilian' refers to…", "options": ["a soldier", "an officer", "a non-military person"], "answer": 2 }
+        { "q": "To 'erupt' means…", "options": ["to suddenly break out", "to slowly fade", "to plan ahead"], "answer": 0 },
+        { "q": "If someone is 'charged' with a crime, they are…", "options": ["formally accused", "found innocent", "set free"], "answer": 0 },
+        { "q": "'Disorder' here means…", "options": ["calm", "violent chaos", "a parade"], "answer": 1 }
       ],
-      "shadow": { "text": "Both sides agreed to a fragile ceasefire.", "zh": "雙方同意了脆弱的停火。" }
+      "shadow": { "text": "Politicians are calling for calm on the streets.", "zh": "政治人物呼籲街頭保持冷靜。" }
     },
     {
       "key": "運動",
       "emoji": "🏀",
       "source": "ESPN",
       "category": "SPORTS",
-      "videoId": "XZZ4rSusTJ8",
-      "title": "A record-breaking night of double-doubles",
+      "videoId": "NDq0DpobsKo",
+      "title": "Spurs upset the Knicks behind Wembanyama",
       "level": "B1 中級",
-      "minutes": 3,
-      "summary_zh": "球員以破紀錄的雙十表現帶領球隊獲勝。",
+      "minutes": 4,
+      "summary_zh": "馬刺作客麥迪遜花園廣場爆冷擊敗尼克，Wembanyama 強勢回神，終結尼克連勝。",
       "vocab": [
-        { "word": "double-double", "ipa": "/ˈdʌbəl ˈdʌbəl/", "pos": "名詞", "zh": "（籃球）兩項數據達兩位數", "example": "He recorded his 57th double-double of the season." },
-        { "word": "registered", "ipa": "/ˈrɛdʒɪstərd/", "pos": "動詞", "zh": "創下、留下（紀錄）", "example": "She registered a career high in points." },
-        { "word": "momentum", "ipa": "/məˈmɛntəm/", "pos": "名詞", "zh": "氣勢、動能", "example": "The team carried the momentum into the fourth quarter." },
-        { "word": "clutch", "ipa": "/klʌtʃ/", "pos": "形容詞", "zh": "關鍵時刻可靠的", "example": "He made a clutch shot to win it." },
-        { "word": "comeback", "ipa": "/ˈkʌmbæk/", "pos": "名詞", "zh": "逆轉、反敗為勝", "example": "It was the biggest comeback of the playoffs." },
-        { "word": "streak", "ipa": "/striːk/", "pos": "名詞", "zh": "連勝、連續紀錄", "example": "They extended their winning streak to ten." }
+        { "word": "upset", "ipa": "/ˈʌpsɛt/", "pos": "名詞", "zh": "（運動）爆冷門、意外擊敗強隊", "example": "San Antonio pulled off a big upset on the road." },
+        { "word": "bounce back", "ipa": "/baʊns bæk/", "pos": "片語", "zh": "反彈、重新振作", "example": "Wembanyama had a bounce-back game with 32 points." },
+        { "word": "rebound", "ipa": "/ˈriːbaʊnd/", "pos": "名詞", "zh": "籃板球", "example": "He grabbed eight rebounds in the win." },
+        { "word": "assist", "ipa": "/əˈsɪst/", "pos": "名詞", "zh": "助攻", "example": "He added six assists for his team." },
+        { "word": "streak", "ipa": "/striːk/", "pos": "名詞", "zh": "連勝（紀錄）", "example": "The Knicks' winning streak ended at 13." },
+        { "word": "avoid", "ipa": "/əˈvɔɪd/", "pos": "動詞", "zh": "避免", "example": "San Antonio avoided a third straight loss." }
       ],
       "quiz": [
-        { "q": "'Momentum' in sports means…", "options": ["a referee", "energy and drive", "a foul"], "answer": 1 },
-        { "q": "A 'clutch' player performs well when…", "options": ["it matters most", "the game is easy", "warming up"], "answer": 0 },
-        { "q": "A 'comeback' is when a team…", "options": ["gives up", "recovers from behind", "leads early"], "answer": 1 }
+        { "q": "In sports, an 'upset' is when…", "options": ["a weaker team beats a stronger one", "the favorite wins easily", "a game is cancelled"], "answer": 0 },
+        { "q": "To 'bounce back' means to…", "options": ["recover after a setback", "give up", "fall behind"], "answer": 0 },
+        { "q": "A 'winning streak' is…", "options": ["a single win", "a run of consecutive wins", "a loss"], "answer": 1 }
       ],
-      "shadow": { "text": "They extended their winning streak to ten.", "zh": "他們把連勝延長到十場。" }
+      "shadow": { "text": "The Knicks' winning streak ended at 13.", "zh": "尼克的連勝在十三場止步。" }
     },
     {
       "key": "財經",
       "emoji": "📈",
       "source": "Bloomberg",
       "category": "MARKETS",
-      "videoId": "wKYOptHfp1w",
-      "title": "Markets test a fragile ceasefire deal",
+      "videoId": "qem1W5T7P58",
+      "title": "Stocks slide as US and Iran trade fresh strikes",
       "level": "B2 中高級",
       "minutes": 5,
-      "summary_zh": "中東緊張情勢牽動市場，投資人觀望停火協議。",
+      "summary_zh": "美伊互相攻擊推升油價，科技股承壓、股市再度下滑，投資人在關鍵通膨報告前縮減部位。",
       "vocab": [
-        { "word": "ceasefire", "ipa": "/ˈsiːsfaɪər/", "pos": "名詞", "zh": "停火", "example": "Oil prices eased after the ceasefire held." },
-        { "word": "volatility", "ipa": "/ˌvɒləˈtɪləti/", "pos": "名詞", "zh": "（市場）波動性", "example": "Traders braced for more volatility." },
-        { "word": "rally", "ipa": "/ˈræli/", "pos": "動詞", "zh": "（股市）反彈上漲", "example": "Stocks rallied on the news." },
-        { "word": "inflation", "ipa": "/ɪnˈfleɪʃən/", "pos": "名詞", "zh": "通貨膨脹", "example": "Cooling inflation lifted investor mood." },
-        { "word": "hedge", "ipa": "/hɛdʒ/", "pos": "動詞", "zh": "對沖、避險", "example": "Investors hedge against currency risk." },
-        { "word": "sentiment", "ipa": "/ˈsɛntɪmənt/", "pos": "名詞", "zh": "（市場）情緒", "example": "Market sentiment turned cautious." }
+        { "word": "slide", "ipa": "/slaɪd/", "pos": "動詞", "zh": "（價格）下滑、走低", "example": "Stocks resumed their slide in early trading." },
+        { "word": "volatility", "ipa": "/ˌvɒləˈtɪləti/", "pos": "名詞", "zh": "（市場）波動性", "example": "We're seeing a lot of volatility this week." },
+        { "word": "geopolitical", "ipa": "/ˌdʒiːoʊpəˈlɪtɪkəl/", "pos": "形容詞", "zh": "地緣政治的", "example": "The selloff stems from geopolitical tensions." },
+        { "word": "inflation", "ipa": "/ɪnˈfleɪʃən/", "pos": "名詞", "zh": "通貨膨脹", "example": "Investors await a key inflation report." },
+        { "word": "futures", "ipa": "/ˈfjuːtʃərz/", "pos": "名詞", "zh": "期貨", "example": "US futures are trending lower this morning." },
+        { "word": "trim", "ipa": "/trɪm/", "pos": "動詞", "zh": "縮減（部位）、修減", "example": "Investors trim positions before the report." }
       ],
       "quiz": [
-        { "q": "'Volatility' describes prices that…", "options": ["never move", "swing a lot", "are fixed"], "answer": 1 },
-        { "q": "When stocks 'rally', they…", "options": ["fall sharply", "rise", "close"], "answer": 1 },
-        { "q": "To 'hedge' is to…", "options": ["reduce risk", "borrow more", "sell everything"], "answer": 0 }
+        { "q": "If stocks 'slide', they…", "options": ["fall", "surge", "stay flat"], "answer": 0 },
+        { "q": "'Volatility' means prices that…", "options": ["swing sharply", "never change", "always rise"], "answer": 0 },
+        { "q": "'Geopolitical' tensions relate to…", "options": ["the weather", "politics between countries", "sports scores"], "answer": 1 }
       ],
-      "shadow": { "text": "Stocks rallied after the ceasefire held.", "zh": "停火維持後股市反彈。" }
+      "shadow": { "text": "Stocks resumed their slide on geopolitical tensions.", "zh": "受地緣政治緊張影響，股市再度下滑。" }
     }
   ],
   "wordOfDay": {
-    "word": "ceasefire",
-    "ipa": "/ˈsiːsfaɪər/",
-    "pos": "名詞",
-    "zh": "停火；交戰雙方暫時停止攻擊。",
-    "example": "Both sides agreed to a fragile **ceasefire**.",
+    "word": "erupt",
+    "ipa": "/ɪˈrʌpt/",
+    "pos": "動詞",
+    "zh": "（暴力、事件、情緒）突然爆發。",
+    "example": "Violence **erupted** in Belfast after the attack.",
     "from": "國際情勢"
   },
-  "shadow": { "text": "Both sides agreed to a fragile ceasefire.", "zh": "雙方同意了脆弱的停火。" }
+  "shadow": { "text": "Politicians are calling for calm on the streets.", "zh": "政治人物呼籲街頭保持冷靜。" }
 }
