@@ -77,6 +77,16 @@
       "shadow": { "text": "Stocks resumed their slide on geopolitical tensions.", "zh": "受地緣政治緊張影響，股市再度下滑。" }
     }
   ],
+  "dailyWords": [
+    { "word": "erupt", "ipa": "/ɪˈrʌpt/", "pos": "動詞", "zh": "（暴力、事件）突然爆發", "example": "Violence erupted across the city overnight.", "from": "國際情勢" },
+    { "word": "upset", "ipa": "/ˈʌpsɛt/", "pos": "名詞", "zh": "（運動）爆冷門、意外擊敗強隊", "example": "San Antonio pulled off a big upset on the road.", "from": "運動" },
+    { "word": "slide", "ipa": "/slaɪd/", "pos": "動詞", "zh": "（價格）下滑、走低", "example": "Stocks resumed their slide in early trading.", "from": "財經" },
+    { "word": "charge", "ipa": "/tʃɑːrdʒ/", "pos": "動詞", "zh": "（正式）起訴、控告", "example": "A man was charged with attempted murder.", "from": "國際情勢" },
+    { "word": "bounce back", "ipa": "/baʊns bæk/", "pos": "片語", "zh": "反彈、重新振作", "example": "Wembanyama had a bounce-back game with 32 points.", "from": "運動" },
+    { "word": "volatility", "ipa": "/ˌvɒləˈtɪləti/", "pos": "名詞", "zh": "（市場）波動性", "example": "We're seeing a lot of volatility this week.", "from": "財經" },
+    { "word": "disorder", "ipa": "/dɪsˈɔːrdər/", "pos": "名詞", "zh": "動亂、騷亂", "example": "Several cars were set on fire during the disorder.", "from": "國際情勢" },
+    { "word": "rebound", "ipa": "/ˈriːbaʊnd/", "pos": "名詞", "zh": "籃板球", "example": "He grabbed eight rebounds in the win.", "from": "運動" }
+  ],
   "wordOfDay": {
     "word": "erupt",
     "ipa": "/ɪˈrʌpt/",
