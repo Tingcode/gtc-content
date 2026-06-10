@@ -82,6 +82,7 @@
     { "text": "Police and politicians are calling for calm on the streets.", "zh": "警方與政界呼籲街頭保持冷靜。", "audio": "shadow-3.mp3" },
     { "text": "Several vehicles were set on fire during the demonstration.", "zh": "示威期間有多輛車被縱火。", "audio": "shadow-4.mp3" }
   ],
+  "shadowFull": { "audio": "shadow-full.mp3", "cues": [0.1, 3.89, 7.91, 11.7, 15.36] },
   "dailyWords": [
     { "word": "erupt", "ipa": "/ɪˈrʌpt/", "pos": "動詞", "zh": "（暴力、事件）突然爆發", "example": "Violence erupted across the city overnight.", "from": "國際情勢" },
     { "word": "upset", "ipa": "/ˈʌpsɛt/", "pos": "名詞", "zh": "（運動）爆冷門、意外擊敗強隊", "example": "San Antonio pulled off a big upset on the road.", "from": "運動" },
