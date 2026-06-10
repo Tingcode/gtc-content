@@ -76,11 +76,11 @@
   ],
   "shadowSource": "國際情勢 · BBC",
   "shadowSegments": [
-    { "text": "There have been violent scenes across Northern Ireland tonight.", "zh": "今晚北愛爾蘭各地發生暴力場面。" },
-    { "text": "A man was charged with attempted murder after a knife attack.", "zh": "一名男子在持刀攻擊後被控謀殺未遂。" },
-    { "text": "Police described the attacker as a man in his thirties.", "zh": "警方形容攻擊者是一名三十多歲的男子。" },
-    { "text": "Police and politicians are calling for calm on the streets.", "zh": "警方與政界呼籲街頭保持冷靜。" },
-    { "text": "Several vehicles were set on fire during the demonstration.", "zh": "示威期間有多輛車被縱火。" }
+    { "text": "There have been violent scenes across Northern Ireland tonight.", "zh": "今晚北愛爾蘭各地發生暴力場面。", "audio": "shadow-0.mp3" },
+    { "text": "A man was charged with attempted murder after a knife attack.", "zh": "一名男子在持刀攻擊後被控謀殺未遂。", "audio": "shadow-1.mp3" },
+    { "text": "Police described the attacker as a man in his thirties.", "zh": "警方形容攻擊者是一名三十多歲的男子。", "audio": "shadow-2.mp3" },
+    { "text": "Police and politicians are calling for calm on the streets.", "zh": "警方與政界呼籲街頭保持冷靜。", "audio": "shadow-3.mp3" },
+    { "text": "Several vehicles were set on fire during the demonstration.", "zh": "示威期間有多輛車被縱火。", "audio": "shadow-4.mp3" }
   ],
   "dailyWords": [
     { "word": "erupt", "ipa": "/ɪˈrʌpt/", "pos": "動詞", "zh": "（暴力、事件）突然爆發", "example": "Violence erupted across the city overnight.", "from": "國際情勢" },
