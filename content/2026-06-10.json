@@ -283,13 +283,13 @@
     }
   ],
   "shadowFull": {
-    "audio": "shadow-full-v2.mp3",
+    "audio": "shadow-full-v3.mp3",
     "cues": [
       0.0,
-      3.23,
-      6.56,
-      9.53,
-      12.42
+      3.45,
+      6.91,
+      10.13,
+      13.23
     ]
   },
   "scenarioPack": {
