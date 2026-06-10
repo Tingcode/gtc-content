@@ -9,7 +9,7 @@
       "videoId": "ouMa6dnCewI",
       "title": "Violence erupts in Belfast after a knife attack",
       "level": "B1 中級",
-      "minutes": 3,
+      "minutes": 4,
       "summary_zh": "貝爾法斯特發生刀械攻擊後，多地爆發示威與縱火，警方與政界呼籲冷靜。",
       "vocab": [
         { "word": "erupt", "ipa": "/ɪˈrʌpt/", "pos": "動詞", "zh": "（暴力、事件）突然爆發", "example": "Violence erupted across the city overnight." },
@@ -23,8 +23,7 @@
         { "q": "To 'erupt' means…", "options": ["to suddenly break out", "to slowly fade", "to plan ahead"], "answer": 0 },
         { "q": "If someone is 'charged' with a crime, they are…", "options": ["formally accused", "found innocent", "set free"], "answer": 0 },
         { "q": "'Disorder' here means…", "options": ["calm", "violent chaos", "a parade"], "answer": 1 }
-      ],
-      "shadow": { "text": "Politicians are calling for calm on the streets.", "zh": "政治人物呼籲街頭保持冷靜。" }
+      ]
     },
     {
       "key": "運動",
@@ -34,7 +33,7 @@
       "videoId": "NDq0DpobsKo",
       "title": "Spurs upset the Knicks behind Wembanyama",
       "level": "B1 中級",
-      "minutes": 4,
+      "minutes": 8,
       "summary_zh": "馬刺作客麥迪遜花園廣場爆冷擊敗尼克，Wembanyama 強勢回神，終結尼克連勝。",
       "vocab": [
         { "word": "upset", "ipa": "/ˈʌpsɛt/", "pos": "名詞", "zh": "（運動）爆冷門、意外擊敗強隊", "example": "San Antonio pulled off a big upset on the road." },
@@ -48,42 +47,48 @@
         { "q": "In sports, an 'upset' is when…", "options": ["a weaker team beats a stronger one", "the favorite wins easily", "a game is cancelled"], "answer": 0 },
         { "q": "To 'bounce back' means to…", "options": ["recover after a setback", "give up", "fall behind"], "answer": 0 },
         { "q": "A 'winning streak' is…", "options": ["a single win", "a run of consecutive wins", "a loss"], "answer": 1 }
-      ],
-      "shadow": { "text": "The Knicks' winning streak ended at 13.", "zh": "尼克的連勝在十三場止步。" }
+      ]
     },
     {
       "key": "財經",
       "emoji": "📈",
       "source": "Bloomberg",
-      "category": "MARKETS",
-      "videoId": "qem1W5T7P58",
-      "title": "Stocks slide as US and Iran trade fresh strikes",
+      "category": "WORLD",
+      "videoId": "ilNw2wrLgFk",
+      "title": "US and Iran trade fire after a helicopter is downed",
       "level": "B2 中高級",
-      "minutes": 5,
-      "summary_zh": "美伊互相攻擊推升油價，科技股承壓、股市再度下滑，投資人在關鍵通膨報告前縮減部位。",
+      "minutes": 3,
+      "summary_zh": "美伊互相攻擊，伊朗報復美軍在波斯灣的基地；目前雙方攻擊暫停，停戰談判持續進行。",
       "vocab": [
-        { "word": "slide", "ipa": "/slaɪd/", "pos": "動詞", "zh": "（價格）下滑、走低", "example": "Stocks resumed their slide in early trading." },
-        { "word": "volatility", "ipa": "/ˌvɒləˈtɪləti/", "pos": "名詞", "zh": "（市場）波動性", "example": "We're seeing a lot of volatility this week." },
-        { "word": "geopolitical", "ipa": "/ˌdʒiːoʊpəˈlɪtɪkəl/", "pos": "形容詞", "zh": "地緣政治的", "example": "The selloff stems from geopolitical tensions." },
-        { "word": "inflation", "ipa": "/ɪnˈfleɪʃən/", "pos": "名詞", "zh": "通貨膨脹", "example": "Investors await a key inflation report." },
-        { "word": "futures", "ipa": "/ˈfjuːtʃərz/", "pos": "名詞", "zh": "期貨", "example": "US futures are trending lower this morning." },
-        { "word": "trim", "ipa": "/trɪm/", "pos": "動詞", "zh": "縮減（部位）、修減", "example": "Investors trim positions before the report." }
+        { "word": "retaliation", "ipa": "/rɪˌtæliˈeɪʃən/", "pos": "名詞", "zh": "報復、還擊", "example": "The retaliation came this morning." },
+        { "word": "hostilities", "ipa": "/hɒˈstɪlətiz/", "pos": "名詞", "zh": "敵對行動、交戰", "example": "He felt the need to respond to the hostilities." },
+        { "word": "truce", "ipa": "/truːs/", "pos": "名詞", "zh": "停戰、休戰", "example": "Truce talks are still ongoing." },
+        { "word": "down", "ipa": "/daʊn/", "pos": "動詞", "zh": "擊落", "example": "Iran had downed an American helicopter." },
+        { "word": "eject", "ipa": "/ɪˈdʒɛkt/", "pos": "動詞", "zh": "（飛行員）彈射逃生", "example": "The crew ejected and were safe." },
+        { "word": "red line", "ipa": "/rɛd laɪn/", "pos": "片語", "zh": "底線、不可跨越的紅線", "example": "A red line for him would be troop deaths." }
       ],
       "quiz": [
-        { "q": "If stocks 'slide', they…", "options": ["fall", "surge", "stay flat"], "answer": 0 },
-        { "q": "'Volatility' means prices that…", "options": ["swing sharply", "never change", "always rise"], "answer": 0 },
-        { "q": "'Geopolitical' tensions relate to…", "options": ["the weather", "politics between countries", "sports scores"], "answer": 1 }
-      ],
-      "shadow": { "text": "Stocks resumed their slide on geopolitical tensions.", "zh": "受地緣政治緊張影響，股市再度下滑。" }
+        { "q": "'Retaliation' means…", "options": ["striking back", "surrendering", "negotiating"], "answer": 0 },
+        { "q": "A 'truce' is…", "options": ["a pause in fighting", "a type of weapon", "an attack"], "answer": 0 },
+        { "q": "To 'down' a helicopter means to…", "options": ["shoot it down", "refuel it", "land it safely"], "answer": 0 }
+      ]
     }
+  ],
+  "shadowSource": "國際情勢 · BBC",
+  "shadowSegments": [
+    { "en": "There have been violent scenes across Northern Ireland tonight.", "zh": "今晚北愛爾蘭各地發生暴力場面。" },
+    { "en": "A man was charged with attempted murder after a knife attack.", "zh": "一名男子在持刀攻擊後被控謀殺未遂。" },
+    { "en": "Police described the attacker as a man in his thirties.", "zh": "警方形容攻擊者是一名三十多歲的男子。" },
+    { "en": "Police and politicians are calling for calm on the streets.", "zh": "警方與政界呼籲街頭保持冷靜。" },
+    { "en": "Several vehicles were set on fire during the demonstration.", "zh": "示威期間有多輛車被縱火。" }
   ],
   "dailyWords": [
     { "word": "erupt", "ipa": "/ɪˈrʌpt/", "pos": "動詞", "zh": "（暴力、事件）突然爆發", "example": "Violence erupted across the city overnight.", "from": "國際情勢" },
     { "word": "upset", "ipa": "/ˈʌpsɛt/", "pos": "名詞", "zh": "（運動）爆冷門、意外擊敗強隊", "example": "San Antonio pulled off a big upset on the road.", "from": "運動" },
-    { "word": "slide", "ipa": "/slaɪd/", "pos": "動詞", "zh": "（價格）下滑、走低", "example": "Stocks resumed their slide in early trading.", "from": "財經" },
+    { "word": "retaliation", "ipa": "/rɪˌtæliˈeɪʃən/", "pos": "名詞", "zh": "報復、還擊", "example": "The retaliation came this morning.", "from": "財經" },
     { "word": "charge", "ipa": "/tʃɑːrdʒ/", "pos": "動詞", "zh": "（正式）起訴、控告", "example": "A man was charged with attempted murder.", "from": "國際情勢" },
     { "word": "bounce back", "ipa": "/baʊns bæk/", "pos": "片語", "zh": "反彈、重新振作", "example": "Wembanyama had a bounce-back game with 32 points.", "from": "運動" },
-    { "word": "volatility", "ipa": "/ˌvɒləˈtɪləti/", "pos": "名詞", "zh": "（市場）波動性", "example": "We're seeing a lot of volatility this week.", "from": "財經" },
+    { "word": "truce", "ipa": "/truːs/", "pos": "名詞", "zh": "停戰、休戰", "example": "Truce talks are still ongoing.", "from": "財經" },
     { "word": "disorder", "ipa": "/dɪsˈɔːrdər/", "pos": "名詞", "zh": "動亂、騷亂", "example": "Several cars were set on fire during the disorder.", "from": "國際情勢" },
     { "word": "rebound", "ipa": "/ˈriːbaʊnd/", "pos": "名詞", "zh": "籃板球", "example": "He grabbed eight rebounds in the win.", "from": "運動" }
   ],
@@ -95,5 +100,5 @@
     "example": "Violence **erupted** in Belfast after the attack.",
     "from": "國際情勢"
   },
-  "shadow": { "text": "Politicians are calling for calm on the streets.", "zh": "政治人物呼籲街頭保持冷靜。" }
+  "shadow": { "text": "There have been violent scenes across Northern Ireland tonight.", "zh": "今晚北愛爾蘭各地發生暴力場面。" }
 }
