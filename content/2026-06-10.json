@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10",
+  "generatedAt": "2026-06-10-2",
   "categories": [
     {
       "key": "國際情勢",
@@ -267,29 +267,41 @@
       "audio": "shadow-1.mp3"
     },
     {
-      "text": "Police described the attacker as a man in his thirties.",
-      "zh": "警方形容攻擊者是一名三十多歲的男子。",
+      "text": "Police described the attacker as a Sudanese man in his thirties.",
+      "zh": "警方形容攻擊者是一名三十多歲的蘇丹男子。",
       "audio": "shadow-2.mp3"
+    },
+    {
+      "text": "The Home Office confirmed he was given refugee status in 2023.",
+      "zh": "內政部證實他在 2023 年取得難民身分。",
+      "audio": "shadow-3.mp3"
     },
     {
       "text": "Police and politicians are calling for calm on the streets.",
       "zh": "警方與政界呼籲街頭保持冷靜。",
-      "audio": "shadow-3.mp3"
+      "audio": "shadow-4.mp3"
     },
     {
-      "text": "Several vehicles were set on fire during the demonstration.",
-      "zh": "示威期間有多輛車被縱火。",
-      "audio": "shadow-4.mp3"
+      "text": "Several vehicles were set on fire during an anti-immigration protest.",
+      "zh": "反移民抗議期間有多輛車被縱火。",
+      "audio": "shadow-5.mp3"
+    },
+    {
+      "text": "In Newtownabbey, a crowd attacked a house used by immigrants.",
+      "zh": "在紐敦阿比，一群人攻擊了移民居住的房子。",
+      "audio": "shadow-6.mp3"
     }
   ],
   "shadowFull": {
-    "audio": "shadow-full-v3.mp3",
+    "audio": "shadow-full.mp3",
     "cues": [
       0.0,
       3.45,
       6.91,
-      10.13,
-      13.23
+      10.72,
+      15.08,
+      18.19,
+      22.21
     ]
   },
   "scenarioPack": {
